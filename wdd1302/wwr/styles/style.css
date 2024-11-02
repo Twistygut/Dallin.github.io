@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&display=swap');
+html {
+    font-size: 22px;
+}
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #000000;
+}
+h2 {
+    margin: 0;
+}
+#content {
+    max-width: 1600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#logo-link {
+    max-width: 1600px;
+    padding-top: 5px;
+}
+.logo {
+    width: 120px;
+}
+nav a {
+    text-decoration: none;
+    text-align: center;
+    background-color: #000000;
+    color: #00FF00;
+    font-family: Inconsolata;
+    padding: 35px;
+}
+nav a:hover {
+    color: #00FF00;
+    font-family: Inconsolata;
+}
+.home-title {
+    color: #00FF00;
+    font-size: 2em;
+    font-family: Inconsolata;
+    margin-top: 10px;
+}
+h4 {
+    color: #00FF00;
+    font-family: Inconsolata;
+}
+.book, .join {
+    background-color: #000000;
+    color: #00FF00;
+    text-decoration: none;
+    font-family: Inconsolata;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #00FF00;
+}
+main section img {
+    box-sizing: border-box;
+}
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+.book:hover, .join:hover {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: Inconsolata;
+}
+.msg h2 {
+    color: #00FF00;
+    font-family: Inconsolata;
+}
+.msg p {
+    color: #00FF00;
+    font-family: Inconsolata;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+.msg {
+    background-color: #000000;
+    padding: 35px;
+}
+footer {
+    background-color: #000000;
+    color: #00FF00;
+    font-family: Inconsolata;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+footer p {
+    font-size: 1.2em;
+    font-family: Inconsolata;
+}
+footer p a:hover {
+    text-decoration: underline;
+}    
+footer a {
+    color: #00FF00;
+    text-decoration: none;
+    font-family: Inconsolata;
+}
+footer a:hover {
+    color: #00FF00;
+    font-family: Inconsolata;
+}
+footer .social img {
+    padding-top: 15px;
+}
+#hero-msg h1, #hero-msg {
+    text-align: center;
+    font-family: Inconsolata;
+}
+.button-box {
+    text-align: center;
+    font-family: Inconsolata;
+}
+main section {
+    text-align: center;
+    font-family: Inconsolata;
+}
+#background {
+    height: 725px;
+    background-color: #000000;
+}
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+#logo {
+    width: 80px;
+}
